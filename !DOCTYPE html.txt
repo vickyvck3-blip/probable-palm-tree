@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Happy Birthday!</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; background: pink; }
+    h1 { color: purple; }
+    .details { margin-top: 20px; font-size: 18px; }
+  </style>
+</head>
+<body>
+  <h1>🎂 Happy Birthday, Ananya! 🎂</h1>
+  <p class="details">Join us on February 15th at 5 PM<br>
+  Location: Sunshine Party Hall</p>
+  <img src="cake.jpg" alt="Birthday Cake" width="300">
+  <p>RSVP: <a href="mailto:yourname@example.com">Click here</a></p>
+</body>
+</html>
